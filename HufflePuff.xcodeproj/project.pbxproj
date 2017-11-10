@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		228EE4CA1FB61B01001F8513 /* CedricDiggory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 228EE4C91FB61B01001F8513 /* CedricDiggory.swift */; };
 		22D6A0901FB616FE00561A25 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D6A08F1FB616FE00561A25 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		228EE4C91FB61B01001F8513 /* CedricDiggory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CedricDiggory.swift; sourceTree = "<group>"; };
 		22D6A08C1FB616FE00561A25 /* HufflePuff */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HufflePuff; sourceTree = BUILT_PRODUCTS_DIR; };
 		22D6A08F1FB616FE00561A25 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				22D6A08F1FB616FE00561A25 /* main.swift */,
+				228EE4C91FB61B01001F8513 /* CedricDiggory.swift */,
 			);
 			path = HufflePuff;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				22D6A0901FB616FE00561A25 /* main.swift in Sources */,
+				228EE4CA1FB61B01001F8513 /* CedricDiggory.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
